@@ -8,3 +8,8 @@ body{
 main{
     flex-grow: 1;
 }
+
+.titulo{
+    font-family: 'Black Han Sans', sans-serif;
+
+}
