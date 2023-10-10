@@ -13,3 +13,15 @@ main{
     font-family: 'Black Han Sans', sans-serif;
 
 }
+
+.banner{
+    height: 500px;
+    object-fit: cover;
+}
+
+@media screen and (max-width:600px){
+    .banner{
+        object-fit: cover;
+        height: 250px;
+    }
+}
